@@ -11,5 +11,4 @@ fish_shop:
       project: savvy-range-365915
       threads: 1
       type: bigquery
-  target: dev
-~             
+  target: dev  
