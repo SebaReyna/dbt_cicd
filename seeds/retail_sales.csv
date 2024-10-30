@@ -1,0 +1,4 @@
+id,product,price,num_sold,category
+1,tuna,15,34,ocean
+2,salmon,20,27,ocean
+3,bass,18,40,lake

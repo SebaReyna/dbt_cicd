@@ -1,0 +1,7 @@
+id,product,price,num_sold,category
+1,salmon,20,67,ocean
+2,tuna,15,51,ocean
+3,trout,12,23,river
+4,cod,10,80,ocean
+5,bass,18,79,lake
+6,crappie,14,65,lake
